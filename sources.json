@@ -1,0 +1,142 @@
+[
+  {
+    "name": "BackPork",
+    "type": "github",
+    "owner": "BestPig",
+    "repo": "BackPork"
+  },
+  {
+    "name": "CheatRunner",
+    "type": "github",
+    "owner": "notmaj0r",
+    "repo": "CheatRunner",
+    "tags_fallback": true
+  },
+  {
+    "name": "elfldr",
+    "type": "github",
+    "owner": "ps5-payload-dev",
+    "repo": "elfldr"
+  },
+  {
+    "name": "etaHEN",
+    "type": "github",
+    "owner": "etaHEN",
+    "repo": "etaHEN"
+  },
+  {
+    "name": "ftpsrv",
+    "type": "github",
+    "owner": "ps5-payload-dev",
+    "repo": "ftpsrv"
+  },
+  {
+    "name": "garlic-savemgr",
+    "type": "gitea",
+    "base": "https://git.etawen.dev",
+    "owner": "earthonion",
+    "repo": "garlic-savemgr"
+  },
+  {
+    "name": "klogsrv",
+    "type": "github",
+    "owner": "ps5-payload-dev",
+    "repo": "klogsrv"
+  },
+  {
+    "name": "kstuff",
+    "type": "github",
+    "owner": "EchoStretch",
+    "repo": "kstuff"
+  },
+  {
+    "name": "kstuff-lite (drakmor)",
+    "type": "github",
+    "owner": "drakmor",
+    "repo": "kstuff-lite"
+  },
+  {
+    "name": "kstuff-lite (EchoStretch)",
+    "type": "github",
+    "owner": "EchoStretch",
+    "repo": "kstuff-lite"
+  },
+  {
+    "name": "kstuff-toggle",
+    "type": "github",
+    "owner": "EchoStretch",
+    "repo": "kstuff-toggle"
+  },
+  {
+    "name": "nanoDNS",
+    "type": "github",
+    "owner": "drakmor",
+    "repo": "nanoDNS"
+  },
+  {
+    "name": "pldmgr",
+    "type": "github",
+    "owner": "itsPLK",
+    "repo": "ps5-payload-manager"
+  },
+  {
+    "name": "ps5-app-dumper",
+    "type": "github",
+    "owner": "EchoStretch",
+    "repo": "ps5-app-dumper"
+  },
+  {
+    "name": "ps5-linux-loader",
+    "type": "github",
+    "owner": "ps5-linux",
+    "repo": "ps5-linux-loader"
+  },
+  {
+    "name": "ps5debug-NG",
+    "type": "github",
+    "owner": "OpenSourcereR-dev",
+    "repo": "ps5debug-NG"
+  },
+  {
+    "name": "PS5-Lapy-JB-Daemon",
+    "type": "github",
+    "owner": "itsPLK",
+    "repo": "PS5-Lapy-JB-Daemon"
+  },
+  {
+    "name": "PS-Game-Patch (patch XML)",
+    "type": "github",
+    "owner": "illusionyy",
+    "repo": "PS-Game-Patch"
+  },
+  {
+    "name": "ps-patch-system",
+    "type": "github",
+    "owner": "illusionyy",
+    "repo": "ps-patch-system"
+  },
+  {
+    "name": "ShadowMountPlus",
+    "type": "github",
+    "owner": "drakmor",
+    "repo": "ShadowMountPlus"
+  },
+  {
+    "name": "shsrv",
+    "type": "github",
+    "owner": "ps5-payload-dev",
+    "repo": "shsrv"
+  },
+  {
+    "name": "websrv",
+    "type": "github",
+    "owner": "ps5-payload-dev",
+    "repo": "websrv"
+  },
+  {
+    "name": "zftpd",
+    "type": "github",
+    "owner": "seregonwar",
+    "repo": "zftpd"
+  }
+]
