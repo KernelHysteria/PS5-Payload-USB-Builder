@@ -616,7 +616,7 @@ class App(tk.Tk):
 
         pick_row = ttk.Frame(out_frame, style="Card.TFrame")
         pick_row.pack(fill=tk.X, pady=(4, 0))
-        self.outdir_var = tk.StringVar(value=os.path.join(os.path.expanduser("~"), "ps5_payload_usb"))
+        self.outdir_var = tk.StringVar(value=os.path.join(os.path.expanduser("~"), "ps5_autoloader"))
         out_entry = ttk.Entry(pick_row, textvariable=self.outdir_var)
         out_entry.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 6))
         browse_btn = ttk.Button(pick_row, text="Browse…", command=self.pick_outdir, style="Ghost.TButton")
