@@ -1,0 +1,64 @@
+// My personal custom sources used on my system. Rename this file to sources.json and replace the existing one to use these.
+[
+  {
+    "name": "pldmgr",
+    "type": "github",
+    "owner": "itsPLK",
+    "repo": "ps5-payload-manager"
+  },
+  {
+    "name": "kstuff-lite (EchoStretch)",
+    "type": "github",
+    "owner": "EchoStretch",
+    "repo": "kstuff-lite"
+  },
+  {
+    "name": "ShadowMountPlus",
+    "type": "github",
+    "owner": "drakmor",
+    "repo": "ShadowMountPlus"
+  },
+  {
+    "name": "nanoDNS",
+    "type": "github",
+    "owner": "drakmor",
+    "repo": "nanoDNS"
+  },
+  {
+    "name": "ftpsrv",
+    "type": "github",
+    "owner": "ps5-payload-dev",
+    "repo": "ftpsrv"
+  },
+  {
+    "name": "ps5-web-file-manager",
+    "type": "github",
+    "owner": "owendswang",
+    "repo": "ps5-web-file-manager"
+  },
+  {
+    "name": "garlic-savemgr",
+    "type": "gitea",
+    "base": "https://git.etawen.dev",
+    "owner": "earthonion",
+    "repo": "garlic-savemgr"
+  },
+  {
+    "name": "ps5-patchdl",
+    "type": "github",
+    "owner": "knutwurst",
+    "repo": "ps5-patchdl"
+  },
+  {
+    "name": "ps5-app-dumper",
+    "type": "github",
+    "owner": "EchoStretch",
+    "repo": "ps5-app-dumper"
+  },
+  {
+    "name": "ps5-linux-loader",
+    "type": "github",
+    "owner": "ps5-linux",
+    "repo": "ps5-linux-loader"
+  },
+]
