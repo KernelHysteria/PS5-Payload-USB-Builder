@@ -74,10 +74,22 @@
     "repo": "nanoDNS"
   },
   {
+    "name": "onionHEN",
+    "type": "github",
+    "owner": "aydencharles",
+    "repo": "onionHEN"
+  },
+  {
     "name": "pldmgr",
     "type": "github",
     "owner": "itsPLK",
     "repo": "ps5-payload-manager"
+  },
+  {
+    "name": "ps-patch-system",
+    "type": "github",
+    "owner": "illusionyy",
+    "repo": "ps-patch-system"
   },
   {
     "name": "ps5-app-dumper",
@@ -92,16 +104,22 @@
     "repo": "ps5-linux-loader"
   },
   {
+    "name": "ps5-patchdl",
+    "type": "github",
+    "owner": "knutwurst",
+    "repo": "ps5-patchdl"
+  },
+  {
+    "name": "ps5-web-file-manager",
+    "type": "github",
+    "owner": "owendswang",
+    "repo": "ps5-web-file-manager"
+  },
+  {
     "name": "ps5debug-NG",
     "type": "github",
     "owner": "OpenSourcereR-dev",
     "repo": "ps5debug-NG"
-  },
-  {
-    "name": "PS5-Lapy-JB-Daemon",
-    "type": "github",
-    "owner": "itsPLK",
-    "repo": "PS5-Lapy-JB-Daemon"
   },
   {
     "name": "PS-Game-Patch (patch XML)",
@@ -110,22 +128,22 @@
     "repo": "PS-Game-Patch"
   },
   {
-    "name": "ps-patch-system",
+    "name": "PS5-Lapy-JB-Daemon",
     "type": "github",
-    "owner": "illusionyy",
-    "repo": "ps-patch-system"
-  },
-  {
-    "name": "ShadowMountPlus",
-    "type": "github",
-    "owner": "drakmor",
-    "repo": "ShadowMountPlus"
+    "owner": "itsPLK",
+    "repo": "PS5-Lapy-JB-Daemon"
   },
   {
     "name": "shsrv",
     "type": "github",
     "owner": "ps5-payload-dev",
     "repo": "shsrv"
+  },
+  {
+    "name": "ShadowMountPlus",
+    "type": "github",
+    "owner": "drakmor",
+    "repo": "ShadowMountPlus"
   },
   {
     "name": "websrv",
